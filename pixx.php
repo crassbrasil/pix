@@ -1,6 +1,6 @@
 <?php
 // Substitua os valores abaixo com suas credenciais e endpoint reais
-$secretKey = 'SUA_SECRET_KEY_AQUI';
+$secretKey = 'd2ff7bd819cc03e0b9902b1694b97922';
 $endpoint = 'https://api.nexustech.com.br/pix'; // edite para o endpoint real
 
 header('Content-Type: application/json');
